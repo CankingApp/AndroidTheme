@@ -167,8 +167,7 @@ attr里可以定义各种属性类型，如color、float、integer、boolean、d
 
 既然这个多方法都不能完美去完成项目, 那我们不如按照官方方重启activity,为了美化转变效果,可以正对activity做一些动画,效果也是不错, 如下视频.
 
-<iframe frameborder="0" width="640" height="498" src="http://v.qq.com/iframe/player.html?vid=q0191cq7h61&tiny=0&auto=0" allowfullscreen></iframe>
-
+![gif](http://img.blog.csdn.net/20160331180245165)
 
 ### 6.代码中如何动态活取自定义属性值
 
