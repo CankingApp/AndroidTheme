@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ok">OK</string>
+    <string name="app_name">AndroidTheme</string>
+    <string name="start_welcome">AndroidTheme</string>
+    <string name="about">About</string>
+    <string name="quit">Quit</string>
+    <string name="mail">Blog: http://cankingapp.github.io</string>
+    <string name="sina">Sina: http://weibo.com/canking666</string>
+    <string name="right">©2016 CankingApp, All Rights Reserved</string>
+    <string name="qq">QQ: 161252787</string>
+    <string name="press_again">Press again to exit</string>
+    <string name="format">HH:mm:ss:SSS</string>
+    <string name="theme_setting">Theme Setting</string>
+
+</resources>

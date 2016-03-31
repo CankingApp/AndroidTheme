@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/timer_layout"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn0"
+            style="@style/Theme_Btn"
+            android:background="@color/primary"
+            android:onClick="onClick"/>
+
+        <Button
+            android:id="@+id/btn1"
+            style="@style/Theme_Btn"
+            android:background="#4CAF50" />
+
+        <Button
+            android:id="@+id/btn2"
+            style="@style/Theme_Btn"
+            android:background="#2196F3" />
+
+        <Button
+            android:id="@+id/btn3"
+            style="@style/Theme_Btn"
+            android:background="#673AB7" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="320dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn4"
+            style="@style/Theme_Btn"
+            android:background="#607D8B" />
+
+        <Button
+            android:id="@+id/btn5"
+            style="@style/Theme_Btn"
+            android:background="#009688" />
+
+        <Button
+            android:id="@+id/btn6"
+            style="@style/Theme_Btn"
+            android:background="#795548" />
+
+        <Button
+            android:id="@+id/btn7"
+            style="@style/Theme_Btn"
+            android:background="#FF9800" />
+    </LinearLayout>
+</LinearLayout>

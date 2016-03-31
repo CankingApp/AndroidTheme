@@ -1,0 +1,88 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.Base" />
+
+
+    <style name="AppTheme.Base.Default">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="mainBgColor">@color/primary_light</item>
+        <item name="mainColor">@color/primary</item>
+    </style>
+
+    <style name="AppTheme.Base.Green">
+        <item name="colorPrimary">#4CAF50</item>
+        <item name="colorPrimaryDark">#388E3C</item>
+        <item name="colorAccent">#9E9E9E</item>
+        <item name="mainBgColor">#C8E6C9</item>
+        <item name="mainColor">#4CAF50</item>
+    </style>
+
+    <style name="AppTheme.Base.Blue">
+        <item name="colorPrimary">#2196F3</item>
+        <item name="colorPrimaryDark">#1976D2</item>
+        <item name="colorAccent">#607D8B</item>
+        <item name="mainBgColor">#BBDEFB</item>
+        <item name="mainColor">#2196F3</item>
+    </style>
+
+    <style name="AppTheme.Base.Purple">
+        <item name="colorPrimary">#673AB7</item>
+        <item name="colorPrimaryDark">#512DA8</item>
+        <item name="colorAccent">#795548</item>
+        <item name="mainBgColor">#D1C4E9</item>
+        <item name="mainColor">#673AB7</item>
+    </style>
+
+    <style name="AppTheme.Base.Grey">
+        <item name="colorPrimary">#607D8B</item>
+        <item name="colorPrimaryDark">#455A64</item>
+        <item name="colorAccent">#FFC107</item>
+        <item name="mainBgColor">#CFD8DC</item>
+        <item name="mainColor">#607D8B</item>
+    </style>
+
+    <style name="AppTheme.Base.Teal">
+        <item name="colorPrimary">#009688</item>
+        <item name="colorPrimaryDark">#00796B</item>
+        <item name="colorAccent">#7C4DFF</item>
+        <item name="mainBgColor">#B2DFDB</item>
+        <item name="mainColor">#009688</item>
+    </style>
+
+    <style name="AppTheme.Base.Brown">
+        <item name="colorPrimary">#795548</item>
+        <item name="colorPrimaryDark">#5D4037</item>
+        <item name="colorAccent">#4CAF50</item>
+        <item name="mainBgColor">#D7CCC8</item>
+        <item name="mainColor">#795548</item>
+    </style>
+
+    <style name="AppTheme.Base.Orange">
+        <item name="colorPrimary">#FF9800</item>
+        <item name="colorPrimaryDark">#F57C00</item>
+        <item name="colorAccent">#607D8B</item>
+        <item name="mainBgColor">#FFE0B2</item>
+        <item name="mainColor">#FF9800</item>
+    </style>
+
+    <style name="AppTheme.Base.ad" />
+
+    <style name="AppDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/dialog_bg</item>
+    </style>
+
+    <style name="Theme_Btn">
+        <item name="android:layout_width">54dp</item>
+        <item name="android:layout_height">54dp</item>
+        <item name="android:layout_margin">12dp</item>
+        <item name="android:onClick">onClick</item>
+    </style>
+
+</resources>

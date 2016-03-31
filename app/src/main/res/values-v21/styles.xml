@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme.Base">
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="AppTheme.Base.ad">
+        <item name="android:windowTranslucentStatus">false</item>
+        <item name="android:typeface">monospace</item>
+        <item name="android:navigationBarColor">#263238</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+</resources>
